@@ -1,10 +1,12 @@
 # Mass-SMS-Texter [WIP]
-Anand Mohan New Project. Python Mass SMS texter
+*Anand Mohan New Project. Python Mass SMS texter*
+
 Pulls Names and Numbers from a .xlsx file and sends them a personalized message using a connected GSM modem
 
 Built for family business that wants to send text messages to all former customers without paying a third party. 
 Built in Python. 
-Supports Windows/Linux/MacOS
+
+Supporting OS Windows/Linux/MacOS
 
 MUST SPECIFY GSM MODEM SERIAL PORT
 
